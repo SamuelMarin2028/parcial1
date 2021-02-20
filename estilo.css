@@ -1,0 +1,40 @@
+.to{
+top:10%;
+left: 50%;
+}
+.ta{
+top:100%;
+left:20%;
+width: 30%;
+height: 30%;
+}
+.ti{
+	top:100%;
+left:20%;
+width: 30%;
+height: 30%;
+}
+.te{
+	top:100%;
+left:20%;
+width: 30%;
+height: 30%;
+}
+.tu{
+	top:100%;
+left:20%;
+width: 30%;
+height: 30%;
+}
+.til{
+	position: absolute;
+	top: 30%;
+	left: 48%;
+	width: 50%;
+	height: 50%;
+	text-align: center;
+	text-decoration: none;
+	border:#33BBFF 5px dotted;
+	border-radius: 50px;
+
+}
